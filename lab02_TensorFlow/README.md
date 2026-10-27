@@ -91,24 +91,3 @@ jupyter notebook lab4_TensorFlow.ipynb
 | [lab4_TensorFlow.ipynb](./lab4_TensorFlow.ipynb) | Теория, анализ данных, обучение модели и выводы |
 | [download_data.py](./download_data.py) | Загрузка данных с Hugging Face в `data/raw/` |
 | [DATA_LICENSE.md](./DATA_LICENSE.md) | Источник и лицензия CC BY 4.0 |
-| [RESULTS.md](./RESULTS.md), [results.json](./results.json) | Результаты последнего запуска ноутбука |
-=======
-# Кадры для космоса
-
-Учебный проект: пять лабораторных по нейронным
-
-Доска задач: https://github.com/users/knfwsss/projects/1
-
-В каждой лабораторной десять карточек, по одной на человека. На карточке указаны исполнитель и роль. Во всех работах используется второй датасет из методички.
-
-| Лабораторная | Датасет |
-|---|---|
-| ЛР1. Регрессия | NASA PCoE Battery Dataset |
-| ЛР2. Классификация | SMAP (THULab/SMAP) |
-| ЛР3. CNN | Satellite Image Classification Dataset |
-| ЛР4. LSTM | XJTU-SPS |
-| ЛР5. Автоэнкодер | Flying Laptop Case Study |
-
-Команда: Гарбузова, Бурова, Монахова, Лукавенко, Гребенец, Цыхоня, Попова, Шмидт, Ерцкина, Толмачева.
-
-Сырые датасеты в репозиторий не коммитятся.
