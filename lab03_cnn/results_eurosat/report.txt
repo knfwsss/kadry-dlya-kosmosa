@@ -1,0 +1,20 @@
+Dataset: dir
+Classes: ['AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway', 'Industrial', 'Pasture', 'PermanentCrop', 'Residential', 'River', 'SeaLake']
+Test accuracy: 0.9291, loss: 0.2062
+
+                      precision    recall  f1-score   support
+
+          AnnualCrop       0.97      0.88      0.92       460
+              Forest       0.93      1.00      0.96       471
+HerbaceousVegetation       0.86      0.96      0.91       421
+             Highway       0.92      0.86      0.89       361
+          Industrial       0.96      0.96      0.96       367
+             Pasture       0.91      0.93      0.92       315
+       PermanentCrop       0.87      0.88      0.87       375
+         Residential       0.97      0.98      0.98       456
+               River       0.91      0.94      0.92       383
+             SeaLake       0.99      0.89      0.94       441
+
+            accuracy                           0.93      4050
+           macro avg       0.93      0.93      0.93      4050
+        weighted avg       0.93      0.93      0.93      4050

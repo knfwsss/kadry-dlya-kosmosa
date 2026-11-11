@@ -1,0 +1,14 @@
+Dataset: kaggle
+Classes: ['cloudy', 'desert', 'green_area', 'water']
+Test accuracy: 0.9870, loss: 0.0394
+
+              precision    recall  f1-score   support
+
+      cloudy       1.00      1.00      1.00       231
+      desert       1.00      1.00      1.00       167
+  green_area       0.99      0.96      0.98       233
+       water       0.96      0.99      0.97       213
+
+    accuracy                           0.99       844
+   macro avg       0.99      0.99      0.99       844
+weighted avg       0.99      0.99      0.99       844
